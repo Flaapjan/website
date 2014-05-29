@@ -1,0 +1,28 @@
+[
+	{ 
+		"email":"test1@gmail.com", 
+		"password":"test1", 
+		"name":"Phillip-Juan", 
+		"surname":"van der Berg", 
+		"isSpecial":false,
+		"pic":"some image 1",
+		"company":[{
+			"name":"Comp1"
+		},{
+			"name":"Comp2"
+		},{
+			"name":"Comp3"
+		}]
+	},
+	{ 
+		"email":"test2@gmail.com", 
+		"password":"test2", 
+		"name":"Sarah", 
+		"surname":"Labuschagne", 
+		"isSpecial":false,
+		"pic":"what you looking at 2",
+		"company":[{
+			"name":"Comp1"
+		}]
+	}
+]
